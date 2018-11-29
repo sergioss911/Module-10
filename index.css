@@ -2,7 +2,7 @@ body{
 
 	
 
-background-color:white;
+background-color:olive;
 
 
 
@@ -14,7 +14,7 @@ h1{
 
 	
 
-color:red;
+color:purple;
 
 
 
@@ -25,7 +25,7 @@ color:red;
 table{
 
 
-border-color:red;
+border-color:green;
 
 
 }
@@ -34,7 +34,7 @@ border-color:red;
 
 td{
 
-	border-style: black;
+	border-style: solid;
 
 }
 
@@ -42,7 +42,7 @@ td{
 
 th{
 
-	border-style: gray;
+	border-style: solid;
 
 	  }
 
